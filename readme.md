@@ -6,9 +6,7 @@
 </p>
 
 
-<p align="center">
-<img src="./lost.png" />
-</p>
+
 <p align="center">
 <img src="./tbh.svg"/>
 </p>
@@ -41,12 +39,12 @@
 
 </p>
 
-<br>
-<br>
+<p align="center">
+<img src="./lost.png" />
+</p> 
 <p align="right">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <img src="https://img.shields.io/badge/-Are%20you%20a%20Nerd%3F-blue"/>
 </a>
 </p>
 
- 
