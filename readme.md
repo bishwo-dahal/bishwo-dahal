@@ -1,18 +1,5 @@
 
-<img src="./title.svg" />
-
-<p align="center">
-<img src="./infinity.gif"  />  
-</p>
-
-
-
-<p align="center">
-<img src="./tbh.svg"/>
-</p>
----
-
-# These are here Just to flex 😎😎
+# Skills
 
 
 <p float="left">
@@ -39,9 +26,7 @@
 
 </p>
 
-<p align="center">
-<img src="./lost.png" />
-</p> 
+
 <p align="right">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <img src="https://img.shields.io/badge/-Are%20you%20a%20Nerd%3F-blue"/>
