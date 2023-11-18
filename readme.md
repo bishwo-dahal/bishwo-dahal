@@ -22,10 +22,15 @@
 </p>
 <p align="right">
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Bishwodahal.visitor-badge)
+
+![Visitors Badge](https://komarev.com/ghpvc/?username=bishwo-dahal)
 
 </p>
 
+[![Bishwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwo-dahal&theme=dark)](https://github.com/bishwo-dahal/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwo-dahal&layout=compact&theme=dark)
 
 <p align="right">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
