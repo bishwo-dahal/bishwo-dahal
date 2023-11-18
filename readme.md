@@ -27,8 +27,11 @@
 
 </p>
 
-[![Bishwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwo-dahal&theme=dark)](https://github.com/bishwo-dahal/github-readme-stats)
+<br/><br/><br/>
 
+![Bishwo's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishwo-dahal&theme=dark&hide_border=false)<br/>
+
+[![Bishwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwo-dahal&theme=dark)](https://github.com/bishwo-dahal/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwo-dahal&layout=compact&theme=dark)
 
